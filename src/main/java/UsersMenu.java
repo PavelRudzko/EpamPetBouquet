@@ -1,4 +1,8 @@
-import Commands.AddFlowerToBouquetCommand;
+
+/** A program call "PetBouquet"
+ * @ author Pavel Rudzko
+ */
+
 import Commands.ICommand;
 import Commands.PrintMenu;
 import Data.IFlower;
