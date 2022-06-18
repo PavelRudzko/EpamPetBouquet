@@ -1,4 +1,4 @@
-package Data;
+package FlowersShop.src.main.java.Data;
 
 public class Rose extends GardenFlowers {
     public Rose(int size, String color, double price, int termOfStorage) {

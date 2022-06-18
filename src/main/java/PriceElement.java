@@ -1,12 +1,14 @@
-import Data.IGoods;
+package FlowersShop.src.main.java;
+
+import FlowersShop.src.main.java.Data.IGoods;
 
 public class PriceElement implements IGoods {
-     String sort;
-     int size;
-     double price;
-     int condition;
-     String color;
-     String country;
+     public String sort;
+     public int size;
+     public double price;
+     public int condition;
+     public String color;
+     public String country;
 
     public String getSort()
     {

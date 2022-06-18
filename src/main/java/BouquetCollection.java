@@ -1,5 +1,6 @@
+package FlowersShop.src.main.java;
 
-import Data.IFlower;
+import FlowersShop.src.main.java.Data.IFlower;
 
 import java.util.ArrayList;
 import java.util.List;

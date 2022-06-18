@@ -1,4 +1,4 @@
-package Data;
+package FlowersShop.src.main.java.Data;
 
 public class Chamomile extends WildFlowers{
     public Chamomile(int size, String color, double price, int termOfStorage, int quantityInStem) {

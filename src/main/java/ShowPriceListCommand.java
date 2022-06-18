@@ -1,4 +1,6 @@
-import Commands.ICommand;
+package FlowersShop.src.main.java;
+
+import FlowersShop.src.main.java.Commands.ICommand;
 
 public class ShowPriceListCommand implements ICommand {
     private final PriceListRepository repo;

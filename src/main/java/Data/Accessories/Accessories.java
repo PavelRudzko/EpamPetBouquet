@@ -1,4 +1,4 @@
-package Data.Accessories;
+package FlowersShop.src.main.java.Data.Accessories;
 
 public class Accessories {
 

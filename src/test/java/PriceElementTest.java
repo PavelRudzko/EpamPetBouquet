@@ -1,6 +1,7 @@
-import org.junit.jupiter.api.Assertions;
+package FlowersShop.src.test.java;
 
-import static org.junit.jupiter.api.Assertions.*;
+import FlowersShop.src.main.java.PriceElement;
+import org.junit.jupiter.api.Assertions;
 
 class PriceElementTest {
 

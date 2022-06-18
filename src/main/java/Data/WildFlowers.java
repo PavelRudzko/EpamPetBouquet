@@ -1,6 +1,4 @@
-package Data;
-
-import java.util.Date;
+package FlowersShop.src.main.java.Data;
 
 public class WildFlowers extends Flowers {
     int quantityInStem;

@@ -1,4 +1,4 @@
-package Commands;
+package FlowersShop.src.main.java.Commands;
 
 //public class AddFlowerToBouquetCommand implements ICommand {
 //  @Override

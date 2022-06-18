@@ -1,14 +1,17 @@
-
+package FlowersShop.src.main.java;
 /** A program call "PetBouquet"
  * @ author Pavel Rudzko
  */
 
-import Commands.ICommand;
-import Commands.PrintMenu;
-import Data.IFlower;
+import FlowersShop.src.main.java.Commands.ICommand;
+import FlowersShop.src.main.java.Commands.PrintMenu;
+import FlowersShop.src.main.java.Data.IFlower;
 
 import java.io.IOException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Dictionary;
+import java.util.Hashtable;
+import java.util.Scanner;
 
 class UsersMenu {
     private static final PriceListRepository priceList = new PriceListRepository();

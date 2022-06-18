@@ -1,4 +1,4 @@
-package Data;
+package FlowersShop.src.main.java.Data;
 
 public class Narcissus extends GardenFlowers {
     public Narcissus(int size, String color, double price, int termOfStorage) {
